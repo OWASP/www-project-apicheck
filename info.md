@@ -5,9 +5,6 @@
 ### Home
 * [Home page](https://bbva.github.io/apicheck/)
 
-### Downloads
-* [APICheck tools](https://github.com/BBVA/apicheck/)
-
 ### Code Repository
 * [Github](https://github.com/BBVA/apicheck/)
 

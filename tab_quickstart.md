@@ -2,9 +2,10 @@
 title: Quickstart
 layout:  null
 tab: true
-order: 2
+order: 1
 tags: apicheck
 ---
+![APICheck](/assets/images/apicheck-logo.png)
 
 <a id="requirements"></a>
 # Requirements
