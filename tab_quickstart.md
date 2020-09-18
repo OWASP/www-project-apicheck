@@ -5,7 +5,7 @@ tab: true
 order: 1
 tags: apicheck
 ---
-![APICheck](/assets/images/apicheck-logo.png)
+![APICheck](assets/images/apicheck-logo.png)
 
 <a id="requirements"></a>
 # Requirements
