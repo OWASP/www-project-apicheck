@@ -1,17 +1,24 @@
 ### APICheck Information
-* [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
-* [Builder](#)
-* [Breaker](#)
+* Incubator Project
+* Testing
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+### Home
+* [Home page](https://bbva.github.io/apicheck/)
+
+### Downloads
+* [APICheck tools](https://github.com/BBVA/apicheck/)
 
 ### Code Repository
-* [repo](#)
+* [Github](https://github.com/BBVA/apicheck/)
 
-### Change Log
-* [changes](#)
+### Helping APICheck!
+* [Report an issue](https://github.com/BBVA/apicheck/issues)
 
+#### Classification
+
+* <i class="fas fa-tools" style="color:#233e81;"></i> Tool
+
+#### Audience
+
+* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
+* <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
