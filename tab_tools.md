@@ -14,7 +14,7 @@ This page contains a list of the currently available tools.
 
 {% for item in site.data.tools.menu %}
   {% if item.type == "apicheck" %}
-#### [item.title]({{ item.home }}{{item.url}})
+#### [{{ item.title }}](https://bbva.github.io/apicheck{{ item.url }})
 
 {{ item.brief }}
   {% endif %}
@@ -24,7 +24,7 @@ This page contains a list of the currently available tools.
 
 {% for item in site.data.tools.menu %}
   {% if item.type == "edge" %}
-#### [item.title]({{ item.home }}{{item.url}})
+#### [{{ item.title }}](https://bbva.github.io/apicheck{{ item.url }})
 
 {{ item.brief }}
   {% endif %}

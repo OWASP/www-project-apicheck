@@ -56,7 +56,7 @@ as input, too. This allows you to build pipelines (as we showed in the previous 
 ## Contribution
 
 If your are a tool developer you can integrate with APICheck tools in no more than
-**10 minutes**. Please check the [Integrating new tools guide](https://bbva.github.io/apicheck/docs/building-new-tools)
+**10 minutes**. Please check the [Integrating new tools guide](https://bbva.github.io/apicheck/docs/integrating-new-tools)
 
 ## Licensing
 
