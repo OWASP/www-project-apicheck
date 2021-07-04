@@ -49,9 +49,7 @@ To allow interoperability among commands and tools, all of them share a common J
 data format. In other words, APICheck commands output JSON documents, and accept them
 as input, too. This allows you to build pipelines (as we showed in the previous section).
 
-<div style="text-align: center;">
-  <img width="300px" src="{{ "/assets/images/data_format.png" | relative_url }}" alt="APICheck data format">
-</div>
+![Data formats](/assets/images/data_format.png)
 
 ## Contribution
 
